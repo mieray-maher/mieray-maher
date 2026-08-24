@@ -9,7 +9,6 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=mieray-maher&color=blueviolet)](https://github.com/mieray-maher)
 
-
 ## 📤 Find me on
 <p align="left">
     <a href="mailto:mieraymaherwalaan55@gmail.com">
@@ -27,11 +26,7 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,html,css,js,ts,py,nodejs,express,react,mongodb,postgres,supabase&perline=6" style="height:105px;"/> &nbsp;
   </p>
 
- 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.shion.dev/api?username=mieray-maher&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
 ![](https://streak-stats.demolab.com/?user=mieray-maher&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mieray-maher&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
