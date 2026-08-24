@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Mieray Maher</h1>
-<h3 align="center">A Computer Science student</h3>
+<h3 align="center">A Computer Science student in Ain Shams University</h3>
+<h4 align="center">Passionate about problem solving and Backend Development</h4>
 
  <p align="center">
     <a href="https://drive.google.com/file/d/1grVwyo3M0dOzrz1QHx_K96l-r2Qzpotk/view?usp=sharing/view">
