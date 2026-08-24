@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mieray Maher</h1>
 <h2 align="center">A Computer Science student in Ain Shams University</h2>
-<h4 align="center">Passionate about problem solving and Backend Development</h4>
+<h4 align="center">Competitive programmer and Backend developer</h4>
 
  <p align="center">
     <a href="https://drive.google.com/file/d/1grVwyo3M0dOzrz1QHx_K96l-r2Qzpotk/view?usp=sharing/view">
