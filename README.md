@@ -1,3 +1,6 @@
+[![Profile views](https://komarev.com/ghpvc/?username=mieray-maher&color=blueviolet)](https://github.com/mieray-maher)
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mieray-maher-2a0b11397) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mieraymaherwalaan55@gmail.com) 
@@ -10,4 +13,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mieray-maher&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![Profile views](https://komarev.com/ghpvc/?username=mieray-maher&color=blueviolet)](https://github.com/mieray-maher)
+
