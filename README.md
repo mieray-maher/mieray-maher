@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mieray Maher</h1>
-<h3 align="center">A Computer Science student in Ain Shams University</h3>
+<h2 align="center">A Computer Science student in Ain Shams University</h2>
 <h4 align="center">Passionate about problem solving and Backend Development</h4>
 
  <p align="center">
