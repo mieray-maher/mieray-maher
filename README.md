@@ -1,6 +1,13 @@
+<h1 align="center">Hi, I'm Mieray Maher</h1>
+<h3 align="center">A Computer Science student</h3>
+
+ <p align="center">
+    <a href="https://drive.google.com/file/d/1grVwyo3M0dOzrz1QHx_K96l-r2Qzpotk/view?usp=sharing/view">
+      <img src="https://img.shields.io/badge/📄 My CV-0D4430?style=plastic" style="height:37px; object-fit:contain;"/></a> &nbsp; &nbsp;
+  </p>
+
 [![Profile views](https://komarev.com/ghpvc/?username=mieray-maher&color=blueviolet)](https://github.com/mieray-maher)
 
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mieray-maher-2a0b11397) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mieraymaherwalaan55@gmail.com) 
