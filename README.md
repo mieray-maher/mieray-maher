@@ -7,7 +7,6 @@
       <img src="https://img.shields.io/badge/📄 My CV-0D4430?style=plastic" style="height:37px; object-fit:contain;"/></a> &nbsp; &nbsp;
   </p>
 
-[![Profile views](https://komarev.com/ghpvc/?username=mieray-maher&color=blueviolet)](https://github.com/mieray-maher)
 
 ## 📤 Find me on
 <p align="left">
